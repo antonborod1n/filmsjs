@@ -9,3 +9,8 @@ const personalMovieDB = {
     genres:[],
     privat: false
 };
+
+const a = prompt('Сколько фильмов вы посмотрели?', ''),
+      b = prompt('На сколько оцените его?',''),
+      c = prompt('Сколько фильмов вы посмотрели?', ''),
+      d = prompt('На сколько оцените его?','');
